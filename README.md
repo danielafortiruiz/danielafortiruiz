@@ -29,7 +29,7 @@
 
 
 <div align="center">
-  <img src="https://github.com/danielafortiruiz/danielafortiruiz/blob/main/Nevadas-data-analytics-workforce.jpg?raw=true" width="1000" />
+  <img src="https://github.com/danielafortiruiz/danielafortiruiz/blob/main/Nevadas-data-analytics-workforce.jpg?raw=true" width="900" />
 </div>
 
  
