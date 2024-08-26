@@ -2,7 +2,7 @@
   <img src="https://github.com/danielafortiruiz/danielafortiruiz/blob/main/portada%20git%20.png?raw=true" alt="Portada GitHub" />
 </div>
 
-# **Hola bienvenidos!** 👋👋👋 **Soy Daniela de Uruguay !** 🌟🌟🌟 
+# **Hola bienvenidos!** 👋👋👋 **Soy Daniela de Uruguay !** 🌟🌟
 
 ## ✅ Tecnológias: 
 
