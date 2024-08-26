@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://github.com/danielafortiruiz/danielafortiruiz/blob/main/Green%20and%20Purple%20Line%20Tech%20Action%20%20Adventure%20Facebook%20Cover%20(1).png?raw=true" alt="Portada GitHub" />
+  <img src="https://github.com/danielafortiruiz/danielafortiruiz/blob/main/Green%20and%20Purple%20Line%20Tech%20Action%20%20Adventure%20Facebook%20Cover%20(1).png?raw=true width="900"" alt="Portada GitHub" />
 </div>
 
 # **Hola bienvenidos!** 👋👋👋 **Soy Daniela de Uruguay !** 🌟🌟
