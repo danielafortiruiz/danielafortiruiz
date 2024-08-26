@@ -1,5 +1,5 @@
-## ![image](https://github.com/user-attachments/assets/30846bed-32b6-406a-9469-3385491f9e9a)
-## **Hola! 👋👋👋 Soy Daniela de Uruguay !**
+![image](https://github.com/user-attachments/assets/30846bed-32b6-406a-9469-3385491f9e9a) ![image](https://github.com/user-attachments/assets/30846bed-32b6-406a-9469-3385491f9e9a)
+## **Hola!** 👋👋👋 **Soy Daniela de Uruguay !**
 
 # 👋 **¡Bienvenidos a Mi Espacio en GitHub!** 🌟
 
@@ -31,4 +31,4 @@ Espero que disfrutes explorando mis proyectos tanto como yo disfruto trabajando 
 
 ---
 
-🌈 ¡Que tengas un día increíble! ✨
+## 🌈 ¡Que tengas un día increíble! ✨
