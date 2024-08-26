@@ -1,6 +1,6 @@
 👋 ![image](https://github.com/user-attachments/assets/30846bed-32b6-406a-9469-3385491f9e9a) ![image](https://github.com/user-attachments/assets/30846bed-32b6-406a-9469-3385491f9e9a) 👋
 ## **Hola!** 👋👋👋 **Soy Daniela de Uruguay !** 🌟🌟🌟
-
+ 
 # 👋 **¡Bienvenidos a Mi Espacio en GitHub!** 🌟
 
 ¡Hola a todos! Soy **Daniela María Forti Ruiz** y me alegra que hayas llegado a mi rincón en GitHub. Aquí es donde guardo mis aventuras en el mundo de los datos, la programación y la creatividad. 🎨🔍
