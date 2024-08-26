@@ -1,4 +1,5 @@
-## Hi there 👋
+## ![image](https://github.com/user-attachments/assets/30846bed-32b6-406a-9469-3385491f9e9a)
+Hi there 👋 👋👋
 
 <!--
 **danielafortiruiz/danielafortiruiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
