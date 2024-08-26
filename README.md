@@ -1,5 +1,3 @@
-![Vista previa de la plantilla interactiva][https://www.canva.com/design/DAGO822BcKw/E68rDpxIxGGW6lcIHCkfHA/edit?utm_content=DAGO822BcKw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton]
-
 
 <div align="center">
   <img src="https://github.com/danielafortiruiz/danielafortiruiz/blob/main/portada%20git%20.png?raw=true" alt="Portada GitHub" />
