@@ -1,14 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Plantilla Interactiva</title>
-</head>
-<body>
-    <iframe src="[https://www.canva.com/design/DAGO822BcKw/E68rDpxIxGGW6lcIHCkfHA/view](https://www.canva.com/design/DAGO822BcKw/E68rDpxIxGGW6lcIHCkfHA/edit?utm_content=DAGO822BcKw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)" width="100%" height="500px"></iframe>
-</body>
-</html>
+![Vista previa de la plantilla interactiva]([https://www.canva.com/design/DAGO822BcKw/E68rDpxIxGGW6lcIHCkfHA/edit?utm_content=DAGO822BcKw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton])
 
 
 <div align="center">
