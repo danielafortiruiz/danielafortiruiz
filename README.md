@@ -54,6 +54,10 @@ Soy una **analista de datos** con experiencia en banca, salud y un montón de pr
 - **[Customer_challenge Final.pbix](https://github.com/danielafortiruiz/InformeGeneralClientes)**: Un dashboard interactivo en Power BI que transforma datos complejos en insights claros y accionables. ¡Echa un vistazo para ver cómo los datos pueden contar una gran historia!
 - **[Proyecto Laboratorio Biogénesis](https://github.com/danielafortiruiz/ProyectoLaboratorioBiogenesis)**: Análisis de datos para la expansión estratégica de un laboratorio farmacéutico. Aquí se encuentran insights valiosos sobre COVID-19 y tasas de vacunación.
 - **[COMERLOGISTICS](https://github.com/danielafortiruiz/ComerLogistics)**: Un dashboard interactivo en Power BI que transforma datos complejos en insights claros y accionables. ¡Echa un vistazo para ver cómo los datos pueden contar una gran historia!
+- **[Analisis en Python](https://github.com/danielafortiruiz/AnalisisPython)**: EDA y ETL realizado en Python
+-  **[AdventureWCycles](https://github.com/danielafortiruiz/AdventureWorkCycles)**:  Un dashboard interactivo en Power BI que transforma datos complejos en insights claros y accionables. ¡Echa un vistazo para ver cómo los datos pueden contar una gran historia!
+-  **[Informe utilizando SQL](https://github.com/danielafortiruiz/SQL_FastFood)** : SQL
+  
 
 
 ## 🤝 **¡Conectemos!**
