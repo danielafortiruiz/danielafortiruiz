@@ -29,8 +29,9 @@
 
 
 <div align="center">
-  <img src="https://github.com/danielafortiruiz/danielafortiruiz/blob/main/Nevadas-data-analytics-workforce.jpg?raw=true" />
+  <img src="https://github.com/danielafortiruiz/danielafortiruiz/blob/main/Nevadas-data-analytics-workforce.jpg?raw=true" width="1000" />
 </div>
+
  
 # 👋 **¡Bienvenidos a Mi Espacio en GitHub!** 🌟
 
