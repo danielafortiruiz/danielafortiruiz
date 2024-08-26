@@ -1,5 +1,9 @@
 👋 ![image](https://github.com/user-attachments/assets/30846bed-32b6-406a-9469-3385491f9e9a) ![image](https://github.com/user-attachments/assets/30846bed-32b6-406a-9469-3385491f9e9a) 👋
 ## **Hola!** 👋👋👋 **Soy Daniela de Uruguay !** 🌟🌟🌟
+
+<div align="center">
+  <img src="https://github.com/danielafortiruiz/danielafortiruiz/blob/main/nube%20datos.png?raw=true" alt="Nube de Palabras" />
+</div>
  
 # 👋 **¡Bienvenidos a Mi Espacio en GitHub!** 🌟
 
